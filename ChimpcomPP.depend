@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1329624604 source:c:\users\mrchimp\desktop\chimpcompp\chimpcompp\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<map>
+
