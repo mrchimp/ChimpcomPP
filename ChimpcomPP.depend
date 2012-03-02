@@ -6,10 +6,15 @@
 	<vector>
 	<map>
 
-1330568839 source:d:\programming\chimpcompp\main.cpp
+1330700882 source:d:\programming\chimpcompp\main.cpp
 	<iostream>
 	<string>
 	<sstream>
 	<vector>
 	<map>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
 
